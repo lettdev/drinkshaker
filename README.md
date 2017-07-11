@@ -1,4 +1,4 @@
-# drinkshaker
+# Drink Shaker
 ![](https://img.shields.io/badge/status-WIP-yellow.svg)
 
 A simple mini clicker game.
